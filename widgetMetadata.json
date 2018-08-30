@@ -1,0 +1,18 @@
+{
+  "config": {
+    "exampleStringProperty": "Example String Property Value",
+    "exampleOptionProperty": "option1",
+    "exampleBooleanProperty": true
+  },
+  "imports": [],
+  "minWidth": 1,
+  "availableToAllPages": true,
+  "version": 1,
+  "jsEditable": true,
+  "translations": [
+    {
+      "language": "en",
+      "name": "ptImage"
+    }
+  ]
+}
